@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Data Engineer & Scientist"
+title: "Data Engineer & Data Scientist"
 author_profile: true
 redirect_from: 
   - /about/
