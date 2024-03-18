@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Cognitive Sciences, Yeditepe University, 2024
+* B.S. in Psychology, Eastern Mediterranean University, 2020
+* Minor in Molecular Biology and Genetics, Eastern Mediterranean University, 2020
 
 Work experience
 ======
